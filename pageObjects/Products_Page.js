@@ -11,15 +11,10 @@ clickAddToCart1() {
 clickAddToCart2() {
     return this.addToCart2.click();
 }
-/*clickAddToCart3() {
-    return this.addToCart3.click();
-}*/
+
 clickShoppingCart() {
     return this.shoppingCart.click();
 }
-
-
-
 
 
 }
