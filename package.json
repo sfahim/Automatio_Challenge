@@ -9,7 +9,7 @@
   "author": "Syed Fahim",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "selenium-standalone": "^6.15.3",
     "sync-request": "^6.1.0",
     "wdio-mocha-framework": "^0.6.4",
